@@ -1,7 +1,5 @@
-title: Sarthak Jain - Hardware Engineering Portfolio
-description: USC EE MS 2025 | FPGA Design Engineer | Computer Architecture
-baseurl: ""
-url: "https://SARTHAK-JAIN-ASIC.github.io"
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Sarthak Jain - Hardware Engineering Portfolio
+description: USC EE MS 2025 | FPGA Design Engineer | Computer Architecture

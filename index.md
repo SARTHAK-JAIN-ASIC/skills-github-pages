@@ -1,5 +1,20 @@
+
 <!DOCTYPE html>
 <html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarthak Jain - Hardware Engineering Portfolio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
 <body class="bg-gray-100 font-sans">
     <header class="bg-blue-600 text-white text-center py-8">
         <h1 class="text-4xl font-bold">Sarthak Jain</h1>

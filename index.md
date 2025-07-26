@@ -1,8 +1,8 @@
-<link rel="stylesheet" href="/custom.css">
 ---
 layout: default
 title: Sarthak Jain - Hardware Engineering Portfolio
 ---
+<link rel="stylesheet" href="/custom.css">
 
 <style>
 /* Light/Dark Mode Toggle */

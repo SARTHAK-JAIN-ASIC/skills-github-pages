@@ -6,7 +6,7 @@ title: Sarthak Jain - Hardware Engineering Portfolio
 # Sarthak Jain - Hardware Engineering Portfolio
 
 USC EE MS 2025 | FPGA Design Engineer | Computer Architecture  
-[GitHub](https://github.com/SARTHAK-JAIN-ASIC) | [LinkedIn](https://linkedin.com/in/sarthak-jain-asic) | sarthak@usc.edu
+[GitHub](https://github.com/SARTHAK-JAIN-ASIC) | [LinkedIn](https://linkedin.com/in/sarthak-jain-ms-ee) | sarthak@usc.edu
 
 ## Welcome
 This portfolio showcases my hardware design and computer architecture projects from USC EE533 and industry experience. All project details are in the [EE533 repository](https://github.com/SARTHAK-JAIN-ASIC/EE533). Below are highlights:

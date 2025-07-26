@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/css/custom.css">
 ---
 layout: default
 title: Sarthak Jain - Hardware Engineering Portfolio

@@ -1,3 +1,6 @@
+body {
+  background-color: #fef9e7 !important; /* soft yellow to test */
+}
 /* Widen main container */
 .wrapper {
   max-width: 1200px;

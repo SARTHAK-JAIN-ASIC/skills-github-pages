@@ -3,7 +3,7 @@ layout: default
 title: Sarthak Jain - Hardware Engineering Portfolio
 ---
 
-<link rel="stylesheet" href="/custom.css">
+<link rel="stylesheet" href="/skills-github-pages/custom.css">
 
 <style>
 /* Light/Dark Mode Toggle */

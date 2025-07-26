@@ -4,4 +4,4 @@ plugins:
 title: Sarthak Jain - Hardware Engineering Portfolio
 description: USC EE MS (Computer Architecture) 2025 | FPGA Design Engineer
 include:
-  - assets/css/custom.css
+  - custom.css

@@ -1,15 +1,19 @@
-body {
-  background-color: #fef9e7 !important; /* soft yellow to test */
-}
-/* Widen main container */
+/* Widen the layout container */
 .wrapper {
-  max-width: 1200px;
+  max-width: 1200px !important;
   margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 0 2rem;
 }
 
-/* Optional: Tweak body font sizing for improved readability */
+/* Improve text readability */
 body {
   font-size: 16px;
-  line-height: 1.6;
+  line-height: 1.7;
+  background-color: #ffffff;
+  color: #222222;
+}
+
+/* Optional: Tweak headers for contrast */
+h1, h2, h3 {
+  color: #003366;
 }

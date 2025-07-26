@@ -1,27 +1,29 @@
-/* Try these based on theme structure */
-.page-width,
-.container,
-.content-wrapper,
-.wrapper {
-  max-width: 8800px !important;
+/* Target the main content wrapper */
+.main-content {
+  max-width: 1280px !important;
   margin: 0 auto;
   padding: 0 2rem;
 }
 
-/* For body styling if needed */
 body {
   font-size: 16px;
   line-height: 1.7;
   background-color: #ffffff !important;
   color: #222222 !important;
+  max-width: none !important;
 }
 
-/* Tweak headers, links for contrast */
+.container {
+  max-width: 1280px !important;
+  margin: 0 auto;
+  padding: 0;
+}
+
 h1, h2, h3 {
   color: #003366 !important;
 }
 
-/* Optionally adjust images or embed width */
 img, iframe {
   max-width: 100%;
+  height: auto;
 }
